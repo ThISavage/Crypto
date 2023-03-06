@@ -1,6 +1,6 @@
 from Crypto.Cipher import DES
 import os
-
+#qwe
 
 # запись в бинарный фаил
 def writing_binary_file(file_name, text):
