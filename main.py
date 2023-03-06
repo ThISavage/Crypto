@@ -4,6 +4,8 @@ from encode import generate_key, generate_iv, encode
 from decode import decode
 import time
 
+#import math
+
 if __name__ == '__main__':
     t0 = time.time()
     parser = argparse.ArgumentParser(description='Encode/decode file')
